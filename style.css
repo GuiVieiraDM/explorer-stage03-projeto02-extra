@@ -101,7 +101,6 @@ body {
   .cards div:nth-child(6) {
     grid-area: E;
   }
-
 }
 
 header {
